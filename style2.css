@@ -1,0 +1,18 @@
+p {
+    width: 80%;
+}
+
+img {
+    position: absolute;
+    bottom: 0;
+    right: 0; 
+}
+
+body{
+    height: 100vh;
+}
+
+.container{
+    position: relative;
+    width: 25%;
+}
